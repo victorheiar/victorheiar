@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Victor!</h1>
 
-<!--
-**victorheiar/victorheiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Malicious Powerpoint File Analysis</b>
+  - [letsdefend.io Walk Through](https://github.com/)
+- <b>Malicious Word File Analysis</b>
+  - [letsdefend.io Walk Through](https://github.com/)
+- <b>Security Onion SIEM Analysis</b>
+  - [Security Onion Walk Through](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications:</h2>
+
+- <b>Google IT Support Certificate</b>
+- <b>Google Cybersecurity Professional Certificate</b>
+- <b>COMPTia A+</b>
+- <b>COMPTia Network+</b>
+- <b>COMPTia Security+</b>
+- <b>ITIL v4</b>
+
+<h2>Connect with me:</h2>
+<img align="left" alt="VictorHeiar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+- <a href="https://linkedin.com/in/victor-heiar">LinkedIn</a>
+
