@@ -13,9 +13,9 @@
 
 - <b>Google IT Support Certificate</b>
 - <b>Google Cybersecurity Professional Certificate</b>
-- <b>COMPTia A+</b>
-- <b>COMPTia Network+</b>
-- <b>COMPTia Security+</b>
+- <b>CompTIA A+</b>
+- <b>CompTIA Network+</b>
+- <b>CompTIA Security+</b>
 - <b>ITIL v4</b>
 
 <h2>Connect with me:</h2>
